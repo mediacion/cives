@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spectral</title>
+    <title>CIVES</title>
     <link>https://cives.cfd/</link>
-    <description>Recent content on Spectral</description>
+    <description>Recent content on CIVES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 10 Dec 2022 22:50:26 +0000</lastBuildDate><atom:link href="https://cives.cfd/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <pubDate>Sat, 10 Dec 2022 22:50:26 +0000</pubDate>
       
       <guid>https://cives.cfd/posts/calidad/</guid>
-      <description>El Banco Mundial tiene un registro del año 2019 que indica que un juicio dura 606 días. Probablemente los abogados del medio hallen esa cifra bastante conservadora, así como los demás descriptores. Los honorarios sobre el 30% de los montos sería en un caso muy particular.1
-   Rank Number     Enforcing contracts (rank) 91   Score for enforcing contracts (0–100) 57.92   Time (days) 606   Cost (% of claim value) 30.</description>
+      <description>El Banco Mundial tiene un registro del año 2019 que indica que un juicio tendiente al cobro de un crédito &amp;mdash;que es de lo que trata el descriptor señalado como Enforcing contracts dura 606 días. Probablemente los abogados del medio hallen que los informers pergueñaron esa cifra de manera bastante conservadora, así como los demás descriptores. Por ejemplo, la de los honorarios estimados a una media de 30% de los montos.</description>
     </item>
     
     <item>

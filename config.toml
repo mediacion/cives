@@ -1,5 +1,5 @@
 baseURL = "https://cives.cfd"
-title = "Spectral"
+title = "CIVES"
 languageCode = "es-es"
 defaultContentLanguage = "en"
 paginate = "7"

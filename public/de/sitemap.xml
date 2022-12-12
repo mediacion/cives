@@ -14,18 +14,6 @@
                 href="https://cives.cfd/de/categories/"
                 />
   </url><url>
-    <loc>https://cives.cfd/de/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cives.cfd/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cives.cfd/de/series/"
-                />
-  </url><url>
     <loc>https://cives.cfd/de/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +24,18 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://cives.cfd/de/"
+                />
+  </url><url>
+    <loc>https://cives.cfd/de/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cives.cfd/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cives.cfd/de/series/"
                 />
   </url><url>
     <loc>https://cives.cfd/de/tags/</loc>
