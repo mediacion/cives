@@ -2,17 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Spectral</title>
-    <link>https:cives.cfd/posts/</link>
+    <link>https://cives.cfd/posts/</link>
     <description>Recent content in Posts on Spectral</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Dec 2021 22:50:26 +0000</lastBuildDate><atom:link href="https:cives.cfd/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language>
+    <lastBuildDate>Sat, 10 Dec 2022 22:50:26 +0000</lastBuildDate><atom:link href="https://cives.cfd/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calidad</title>
+      <link>https://cives.cfd/posts/calidad/</link>
+      <pubDate>Sat, 10 Dec 2022 22:50:26 +0000</pubDate>
+      
+      <guid>https://cives.cfd/posts/calidad/</guid>
+      <description>El Banco Mundial tiene un registro del año 2019 que indica que un juicio dura 606 días. Probablemente los abogados del medio hallen esa cifra bastante conservadora, así como los demás descriptores. Los honorarios sobre el 30% de los montos sería en un caso muy particular.1
+   Rank Number     Enforcing contracts (rank) 91   Score for enforcing contracts (0–100) 57.92   Time (days) 606   Cost (% of claim value) 30.</description>
+    </item>
+    
     <item>
       <title>Hello</title>
-      <link>https:cives.cfd/posts/hello/</link>
+      <link>https://cives.cfd/posts/hello/</link>
       <pubDate>Wed, 01 Dec 2021 22:50:26 +0000</pubDate>
       
-      <guid>https:cives.cfd/posts/hello/</guid>
+      <guid>https://cives.cfd/posts/hello/</guid>
       <description>oh hi</description>
     </item>
     

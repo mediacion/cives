@@ -1,16 +1,16 @@
 baseURL = "https://cives.cfd"
 title = "Spectral"
-languageCode = "en-us"
+languageCode = "es-es"
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "Spectral" # title for frontpage, may include image
-copyright = "John Doe"
-description = 'Another fine responsive<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a> by Simon Bruder.'
-startbuttonText = "Activate"
-startbuttonLink = "/reemplazar_por_link.md"
+fancyTitle = "Cives" # title for frontpage, may include image
+copyright = "Cives, ac"
+description = 'Justicia pronta. <br /> Cives, Centro de Arbitraje.'
+startbuttonText = "Artículos."
+startbuttonLink = "/posts/"
 body_is_markdown = true
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
@@ -27,14 +27,17 @@ title = "Posts"
     tag = "tags"
     category = "categories"
     series = "series"
+    
+# No entiendo esto de los parametros si la taxonomia no coincide
 
 [params.one]
 enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+title = 'Cada año el número de causas judiciales crece<br />y la de las sentencias decrecen'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+Aunque parece ser un mal mundial en nuestro país es notable la desproporción entre la calidad de acceso a la Justicia y el crecimiendo de su [calidad](/posts/calidad/)
 '''
+
+#Arriba se escapa del toml con ''' fijate que no se pone content en el link!!
 
 [[params.one.icon]]
 icon = "fa-diamond"
@@ -51,23 +54,27 @@ icon = "fa-code"
 style = "3"
 label = "Dolor"
 
+# Otra clase de parámentros.  
+
 [params.two]
 enable = true
 
 [[params.two.section]]
 img = "img/pic01.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'El arbitraje es el instrumento perfecto para estabilizar los negocios'
+body = 'No cuesta nada, si no hay conflicto. Si lo hay, ambas partes se ven extensamente beneficiadas.'
 
 [[params.two.section]]
 img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Las partes se aseguran una pronta resolución'
+body = 'Un juicio en primera instancia tarda cuanto menos dos años en resolverse. Si ambas partes litigan como es debido, la causa no se resolverá jamás.'
 
 [[params.two.section]]
 img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'La demanda crece, la calidad decrece'
+body = 'El Poder Judicial hace cuanto puede con los recursos que le son asignados.'
+
+# Otra sección. 
 
 [params.three]
 enable = true

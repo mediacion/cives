@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spectral</title>
-    <link>https:cives.cfd/de/</link>
+    <link>https://cives.cfd/de/</link>
     <description>Recent content on Spectral</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https:cives.cfd/de/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language><atom:link href="https://cives.cfd/de/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

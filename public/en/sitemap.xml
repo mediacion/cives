@@ -2,59 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https:cives.cfd/posts/hello/</loc>
+    <loc>https://cives.cfd/posts/calidad/</loc>
+    <lastmod>2022-12-10T22:50:26+00:00</lastmod>
+  </url><url>
+    <loc>https://cives.cfd/posts/</loc>
+    <lastmod>2022-12-10T22:50:26+00:00</lastmod>
+  </url><url>
+    <loc>https://cives.cfd/</loc>
+    <lastmod>2022-12-10T22:50:26+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cives.cfd/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cives.cfd/"
+                />
+  </url><url>
+    <loc>https://cives.cfd/posts/hello/</loc>
     <lastmod>2021-12-01T22:50:26+00:00</lastmod>
   </url><url>
-    <loc>https:cives.cfd/posts/</loc>
-    <lastmod>2021-12-01T22:50:26+00:00</lastmod>
-  </url><url>
-    <loc>https:cives.cfd/</loc>
-    <lastmod>2021-12-01T22:50:26+00:00</lastmod>
+    <loc>https://cives.cfd/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https:cives.cfd/de/"
+                href="https://cives.cfd/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:cives.cfd/"
+                href="https://cives.cfd/categories/"
                 />
   </url><url>
-    <loc>https:cives.cfd/categories/</loc>
+    <loc>https://cives.cfd/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https:cives.cfd/de/categories/"
+                href="https://cives.cfd/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:cives.cfd/categories/"
+                href="https://cives.cfd/series/"
                 />
   </url><url>
-    <loc>https:cives.cfd/series/</loc>
+    <loc>https://cives.cfd/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https:cives.cfd/de/series/"
+                href="https://cives.cfd/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:cives.cfd/series/"
-                />
-  </url><url>
-    <loc>https:cives.cfd/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https:cives.cfd/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https:cives.cfd/tags/"
+                href="https://cives.cfd/tags/"
                 />
   </url>
 </urlset>

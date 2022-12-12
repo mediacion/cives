@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https:cives.cfd/de/categories/</loc>
+    <loc>https://cives.cfd/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:cives.cfd/categories/"
+                href="https://cives.cfd/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https:cives.cfd/de/categories/"
+                href="https://cives.cfd/de/categories/"
                 />
   </url><url>
-    <loc>https:cives.cfd/de/series/</loc>
+    <loc>https://cives.cfd/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:cives.cfd/series/"
+                href="https://cives.cfd/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https:cives.cfd/de/series/"
+                href="https://cives.cfd/de/series/"
                 />
   </url><url>
-    <loc>https:cives.cfd/de/</loc>
+    <loc>https://cives.cfd/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:cives.cfd/"
+                href="https://cives.cfd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https:cives.cfd/de/"
+                href="https://cives.cfd/de/"
                 />
   </url><url>
-    <loc>https:cives.cfd/de/tags/</loc>
+    <loc>https://cives.cfd/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:cives.cfd/tags/"
+                href="https://cives.cfd/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https:cives.cfd/de/tags/"
+                href="https://cives.cfd/de/tags/"
                 />
   </url>
 </urlset>
